@@ -1304,6 +1304,12 @@ section.lazy-placeholder:after {
 .cid-rTdCcL2X6P .mbr-section-btn {
   color: #ffffff;
 }
+.cid-rTdCcL2X6P H3 {
+  color: #ffffff;
+}
+.cid-rTdCcL2X6P H1 {
+  color: #ffffff;
+}
 .cid-rTdGKzYyaw {
   padding-top: 90px;
   padding-bottom: 15px;
@@ -4358,16 +4364,15 @@ section.lazy-placeholder:after {
 .cid-rTh3UDFbmm .mbr-section-subtitle {
   font-style: italic;
 }
-.cid-rTh4tiYojR {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+.cid-rTh3UDFbmm H1 {
+  color: #ffffff;
 }
-.cid-rTh4tiYojR .mbr-section-subtitle {
-  color: #767676;
+.cid-rTh3UDFbmm H3 {
+  color: #ffffff;
 }
-.cid-rTh4tiYojR H2 {
-  color: #8fd3d5;
+.cid-rTh3UDFbmm .mbr-text,
+.cid-rTh3UDFbmm .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-rThVgrg1XO {
   padding-top: 45px;
