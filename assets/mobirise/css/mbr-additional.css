@@ -30,6 +30,7 @@ body {
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
+  letter-spacing: 0.1em;
 }
 .display-5 {
   font-family: 'Nunito', sans-serif;
