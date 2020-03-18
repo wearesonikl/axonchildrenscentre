@@ -111,19 +111,19 @@ body {
 .btn-primary:active {
   background-color: #ffca65 !important;
   border-color: #ffca65 !important;
-  color: #654200 !important;
+  color: #ffffff !important;
 }
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus,
 .btn-primary.active {
-  color: #654200 !important;
+  color: #ffffff !important;
   background-color: #ffb018 !important;
   border-color: #ffb018 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
-  color: #654200 !important;
+  color: #ffffff !important;
   background-color: #ffb018 !important;
   border-color: #ffb018 !important;
 }
