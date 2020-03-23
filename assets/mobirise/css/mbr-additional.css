@@ -26,9 +26,11 @@ body {
   font-family: 'GT Walsheim Pro Bold Regular';
   font-size: 1rem;
   font-display: swap;
+  letter-spacing: 0.1em;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
+  letter-spacing: 0.1em;
 }
 .display-5 {
   font-family: 'Nunito', sans-serif;
@@ -4596,6 +4598,10 @@ section.lazy-placeholder:after {
 .cid-rTh3UDFbmm .mbr-text,
 .cid-rTh3UDFbmm .mbr-section-btn {
   color: #ffffff;
+  text-align: left;
+}
+.cid-rTh3UDFbmm DIV {
+  text-align: left;
 }
 .cid-rThVgrg1XO {
   padding-top: 45px;
@@ -4606,9 +4612,13 @@ section.lazy-placeholder:after {
   color: #767676;
   margin: 0;
   padding-top: 1.5rem;
+  text-align: left;
 }
 .cid-rThVgrg1XO div.b {
   padding-top: 2rem;
+}
+.cid-rThVgrg1XO H5 {
+  text-align: left;
 }
 .cid-rTh4py4wft .main_wrapper {
   position: relative;
@@ -4680,9 +4690,11 @@ section.lazy-placeholder:after {
 }
 .cid-rTh4py4wft P {
   color: #ffffff;
+  text-align: left;
 }
 .cid-rTh4py4wft H4 {
   color: #ffffff;
+  text-align: left;
 }
 .cid-rThcB4MzWH {
   padding-top: 45px;
